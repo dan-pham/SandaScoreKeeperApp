@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sanda Score Keeper App</string>
+    <string name="competitor_A">Competitor A</string>
+    <string name="competitor_B">Competitor B</string>
+    <string name="zero">0</string>
+    <string name="add_one_point">+1 Point</string>
+    <string name="add_two_points">+2 Points</string>
+    <string name="add_three_points">+3 Points</string>
+    <string name="add_foul_point">Foul Point</string>
+    <string name="reset">Reset</string>
+</resources>
